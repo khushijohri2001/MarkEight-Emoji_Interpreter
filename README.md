@@ -1,2 +1,2 @@
 # MarkEight-Emoji_Interpreter
-Created with CodeSandbox
+A ReactJs App which will tell you the meaning of the emojis objects when you click on an emoji or type.
