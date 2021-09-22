@@ -19,7 +19,7 @@ export default function App() {
   var [meaning, setMeaning] = useState("Translation will appear here");
 
   function emojiInputHandler() {
-    var inputUser = Event.target.value;
+    var inputUser = event.target.value;
     var meaning = emojiDictionary[inputUser];
 
     if (meaning === undefined) {
